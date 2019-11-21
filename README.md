@@ -41,7 +41,7 @@ Also be sure to checkout other [Free & Open Source Gatsby Themes](https://themes
 Use the Gatsby CLI to create a new site, specifying this project
 
 ```sh
-gatsby new project-name https://github.com/LekoArts/gatsby-starter-portfolio-cara
+gatsby new project-dfdigital https://github.com/hacksterjs/dfdigital
 ```
 
 2. **Start developing.**
